@@ -1,4 +1,4 @@
-# 🔐 DepSecScan: Dependency Security Scanner for Python
+# 🔐 VulnScan: Dependency Security Scanner for Python
 
 ## 📌 Overview
 
