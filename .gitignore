@@ -9,10 +9,12 @@ build/
 venv/
 .env
 
-# Tool / local.depsecscan_cache/
+# Tool / local
+.depsecscan_cache/
 scanner.log
 security_report.json
 security_report.html
+reports/
 
 # IDE
 .idea/
